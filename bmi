@@ -1,0 +1,9 @@
+größe = float(input("Wie groß bist du in M. ? \n" ))
+gewicht = float(input("Wie viel wiegst du in Kg. ? \n"))
+
+bmi = gewicht/(größe **2)
+
+print(bmi)
+
+
+
